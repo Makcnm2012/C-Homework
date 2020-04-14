@@ -14,7 +14,6 @@ void view(const int* X, int size) {
         cout << X[i] << '\t'; 
     } 
     cout << endl << endl;
-    
 } 
 
 //функція, що заповнює масив випадковими значеннями 
