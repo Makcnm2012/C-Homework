@@ -34,8 +34,7 @@ int frame (int m, int n, int d) {
             cout << "*";
         }
         cout << endl;
-    }
-    
+    } 
     return 0;
 }
 
