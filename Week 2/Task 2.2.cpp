@@ -24,7 +24,6 @@ int simple (int *arr, int n) {
             notsimple = false;
         }
     }  
-    
     return 0;
 }
 
