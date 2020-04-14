@@ -11,7 +11,6 @@ int search (int *arr, int size, int n) {
             return i + 1;
         }
     }  
-    
     return -1;
 }
 
@@ -45,7 +44,6 @@ int main(int argc, char* argv[])
     } else {
         cout << endl << "Number " << f << " is located at " << result;    
     }
-    
 
     delete [] arr; 
     cout << endl;
