@@ -3,10 +3,6 @@
 
 using namespace std; 
 
-void view(const int*, int); //оголошення функції 
-void createVect(int*&, int); //оголошення функції 
-
-
 //функція для відображення елементів масиву 
 void view(const int* X, int size) { 
     
